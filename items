@@ -41,8 +41,14 @@ Tree
 Graph
 Json
 Xml
+Dictionary
+Image
+Media
+Blob
 Database
 Entity
+Markdown
+Html
 
 
 Boolean
@@ -51,9 +57,6 @@ Double
 Float
 Char
 Json
-
-
-
 
 number
 
